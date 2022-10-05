@@ -1,0 +1,15 @@
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\OnlineTea.DAL.deps.json
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\OnlineTea.DAL.runtimeconfig.json
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\OnlineTea.DAL.runtimeconfig.dev.json
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\OnlineTea.DAL.dll
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\ref\OnlineTea.DAL.dll
+G:\AnsitCompany\OnlineTea.DAL\bin\Debug\net5.0\OnlineTea.DAL.pdb
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.csprojAssemblyReference.cache
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.AssemblyInfoInputs.cache
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.AssemblyInfo.cs
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.csproj.CoreCompileInputs.cache
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.dll
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\ref\OnlineTea.DAL.dll
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.pdb
+G:\AnsitCompany\OnlineTea.DAL\obj\Debug\net5.0\OnlineTea.DAL.genruntimeconfig.cache
